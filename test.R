@@ -1,5 +1,5 @@
 # Test script
 
-x <- log2(1024)
+x <- log10(1024)
 print(x)
 
