@@ -2,3 +2,4 @@ questo è un testo di prova.
 Magari scrivo 2 righe o 3...
 Giusto così per essere sicuri.
 Poi aggiungo una linea.
+Poi ne aggiungo un'altra.
