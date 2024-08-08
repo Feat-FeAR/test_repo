@@ -2,4 +2,4 @@
 
 x <- log2(1024)
 print(x+1)
-print("OK - another one change from remote")
+print("OK - one more change from remote")
