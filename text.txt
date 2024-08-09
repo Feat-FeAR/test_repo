@@ -3,3 +3,5 @@ Magari scrivo 2 righe o 3...
 Giusto così per essere sicuro.
 Poi ne aggiungo un'altra.
 E poi ancora un'altra.
+
+Questa prova direttamente sul main branch.
