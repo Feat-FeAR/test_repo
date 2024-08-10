@@ -1,4 +1,4 @@
-# Test script with a new header for learning Git again
+# Test script with a new header for learning Git again, and again, and again
 
 x <- log2(1024)
 print(x+1)
