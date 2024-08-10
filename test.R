@@ -1,4 +1,4 @@
-# Test script with new header
+# Test script with a new header
 
 x <- log2(1024)
 print(x+1)
