@@ -3,3 +3,5 @@
 x <- log2(1024)
 print(x+1)
 print("OK - one more change from remote")
+
+print("Add one more line to test EOL handling")

@@ -7,3 +7,6 @@ E poi ancora un'altra.
 remote placeholder for merging
 
 switch to Italian again, and again, and again... awww!!
+
+Now testing EOL handling.
+
