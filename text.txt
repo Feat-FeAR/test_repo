@@ -11,3 +11,4 @@ switch to Italian again, and again, and again... awww!!
 Hopefully last time testing EOL handling.
 With a mixed EOL pattern
 
+asdf
