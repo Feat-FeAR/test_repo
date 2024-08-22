@@ -9,6 +9,5 @@ remote placeholder for merging
 switch to Italian again, and again, and again... awww!!
 
 Hopefully last time testing EOL handling.
-With a mixed EOL pattern... DONE!
+With a mixed EOL pattern
 
-Now testing the '--amend' feature.
