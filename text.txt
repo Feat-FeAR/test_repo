@@ -1,13 +1,5 @@
-Questo è un testo di prova.
-Magari scrivo 2 righe o 3...
-Giusto così per essere sicuro.
-Poi ne aggiungo un'altra.
-E poi ancora un'altra.
-
-remote placeholder for merging
-
-switch to Italian again, and again, and again... awww!!
-
-Hopefully last time testing EOL handling.
-With a mixed EOL pattern
-
+This is a test text.
+Maybe I'll write 2 lines or 3...
+Just to be sure.
+Then I'll add another one.
+And then one more.

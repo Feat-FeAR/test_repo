@@ -1,4 +1,4 @@
-# MY TEST REPOSITORY
+# My Test Repo
 
 As per its name, this micro-repository is a test space that I use for
 self-learning Git and GitHub, by trying out their web and command-line

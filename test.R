@@ -1,7 +1,8 @@
-# Test script with a new header for learning Git again, and again, and again !!
+# R Executable Test Script
+# $ Rscript test.R
 
 x <- log2(1024)
-print(x+1)
-print("OK - one more change from remote")
 
-print("Add one more line to test EOL handling")
+cat("\n...you should find an 'eleven' here below:")
+cat("\n", x+1)
+cat("\n")
